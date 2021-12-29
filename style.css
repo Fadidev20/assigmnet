@@ -1,0 +1,78 @@
+
+.logo1{
+    background-color:green;
+    width: 100px;
+    height: 100px;
+}
+.icon1{
+    
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: -50px;
+}
+.quran-icon{
+    color: black;
+}
+.quran-icon:hover{
+    color:green;
+}
+
+
+.nav:hover{
+     color: green;
+}
+
+.main-card{
+margin-top: -20vh;
+}
+.nav1{
+    color: green;
+}
+.text{
+    margin-left: 45%;
+    margin-top: 10vh;
+}
+
+.footer1{
+    background-color: rgb(98, 104, 104);
+    margin-top:20vh;
+    
+    
+}
+
+.heading{
+    font-size: 40px;
+    
+}
+.icones{
+    font-size: 20px;
+    
+}
+.icones1{
+    color: rgb(0, 82, 235);
+}
+.icones2{
+    color:rgb(0, 149, 235) ;
+}
+.icones3{
+    color:red;
+}
+.icones4{
+    color: purple;
+}
+.icones5{
+color: rgb(0, 35, 139);
+}
+
+
+.card-5 img{
+    transition: all 0.7s;
+
+}
+.card-5:hover img{
+     transform: scale(0.2);
+     
+}
+
+
+
